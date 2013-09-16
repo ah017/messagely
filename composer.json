@@ -1,23 +1,23 @@
 {
-    "name": "wibleh/messagely",
-    "description": "A success/error message package for Laravel 4",
+	"name": "wibleh/messagely",
+	"description": "A success/error message package for Laravel 4",
 	"keywords": ["messagely", "messages", "laravel"],
-	"license": ["GPL-2.0", "GPL-3.0"]
-    "authors": [
-        {
-            "name": "Andrew Holt",
-            "email": "wibleh@onemanlan.com"
-        }
-    ],
-    "require": {
-        "php": ">=5.3.0",
-        "illuminate/support": "4.0.x"
-    },
-    "autoload": {
-        "classmap": [],
-        "psr-0": {
-            "Wibleh\\Messagely": "src/"
-        }
-    },
-    "minimum-stability": "dev"
+	"license": ["GPL-2.0", "GPL-3.0"],
+	"authors": [
+		{
+			"name": "Andrew Holt",
+			"email": "wibleh@onemanlan.com"
+		}
+	],
+	"require": {
+		"php": ">=5.3.0",
+		"illuminate/support": "4.0.x"
+	},
+	"autoload": {
+		"classmap": [],
+		"psr-0": {
+			"Wibleh\\Messagely": "src/"
+		}
+	},
+	"minimum-stability": "dev"
 }
