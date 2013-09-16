@@ -2,7 +2,7 @@
     "name": "wibleh/messagely",
     "description": "A success/error message package for Laravel 4",
 	"keywords": ["messagely", "messages", "laravel"],
-	"license": "gpl v2",
+	"license": ["GPL-2.0", "GPL-3.0"]
     "authors": [
         {
             "name": "Andrew Holt",
@@ -14,9 +14,7 @@
         "illuminate/support": "4.0.x"
     },
     "autoload": {
-        "classmap": [
-            "src/migrations"
-        ],
+        "classmap": [],
         "psr-0": {
             "Wibleh\\Messagely": "src/"
         }
