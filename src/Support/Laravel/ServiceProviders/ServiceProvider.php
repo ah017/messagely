@@ -1,4 +1,4 @@
-<?php namespace Wibleh\Messagely\ServiceProviders;
+<?php namespace Wibleh\Messagely\Support\Laravel\ServiceProviders;
 
 use Illuminate\Foundation\Application;
 use Illuminate\Support\ServiceProvider as LaravelServiceProvider;

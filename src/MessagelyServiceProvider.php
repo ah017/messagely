@@ -6,7 +6,7 @@
  *
  * Left here for backwards compatibility for sites using this package.
  */
-class MessagelyServiceProvider extends ServiceProviders\ServiceProvider
+class MessagelyServiceProvider extends Support\Laravel\ServiceProviders\ServiceProvider
 {
 
 }
