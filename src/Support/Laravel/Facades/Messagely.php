@@ -1,4 +1,4 @@
-<?php namespace Wibleh\Messagely\Facades;
+<?php namespace Wibleh\Messagely\Support\Laravel\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
